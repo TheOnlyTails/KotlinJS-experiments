@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KotlinJS-1.0-SNAPSHOT">
+    <output-path>C:\Users\shach\IdeaProjects\KotlinJS\build\libs</output-path>
+    <root id="archive" name="KotlinJS-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="KotlinJS.main" />
+    </root>
+  </artifact>
+</component>
